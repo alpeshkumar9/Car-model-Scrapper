@@ -19,10 +19,16 @@ The main idea behind this project was to experiment with the car’s sales data 
 <h3>Models Analysis Performed</h3>
 <ol>
   <li>Principal Component Analysis (PCA)</li>
-  <li>Regression Analysis</li>
-  <li>Principal Component Analysis (PCA)</li>
-  <li>Principal Component Analysis (PCA)</li>
-  <li>Principal Component Analysis (PCA)</li>
+  <li>
+    Regression Analysis
+    <ul>
+      <li>Linear Regression</li>
+      <li>Polynomial Regression</li>
+      <li>Ridge Regression</li>
+      <li>Lasso Regression</li>
+      <li>Random Forest Regression</li>
+     </ul>
+  </li>
 </ol>
 
 <h3>ComputationalExperiments</h3>
