@@ -1,6 +1,5 @@
 # Car-model-Scrapper
 <h2>Regression Models Analysis on Scrapped Car Models data</h2>
-
 An overview of the underlying research done for the various system components is provided in this section. As a result, it also provides a background on how the project evolved leading up to the system's creation.
 
 <h3>General Idea</h3>
