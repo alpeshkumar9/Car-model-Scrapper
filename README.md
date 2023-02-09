@@ -1,2 +1,2 @@
 # Car-model-Scrapper
-A car model scrapper to perform model analysis
+Regression Models Analysis on Scrapped Car Models data
