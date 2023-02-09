@@ -39,11 +39,11 @@ This experiment aims to scrap the data from online resources, pre-process the sc
 <h3>Results</h3>
 In this analysis, I used four regression algorithms and considered key factors related with each of the technique. The analysis provides evidence that:
 
-    <ul>
-      <li>In basic model analysis, all other models performed better than random forest. As I mentioned earlier, if two models have similar performance then one should favour the model that is simpler and/or easier to grasp because the simpler model is easier for others to understand so.</li>
-      <li>Feature selection gave poor performance and did not provide any improvement over basic model analysis.</li>
-      <li>Using PCA as the dimensionality reduction technique provided the best result for all the models compared to basic model analysis. Also, Machine learning pipelining helped in automating the iterative process of scaling, applying PCA and building estimators and thus reducing the overall computation time.</li>
-     </ul>
+<ul>
+  <li>In basic model analysis, all other models performed better than random forest. As I mentioned earlier, if two models have similar performance then one should favour the model that is simpler and/or easier to grasp because the simpler model is easier for others to understand so.</li>
+  <li>Feature selection gave poor performance and did not provide any improvement over basic model analysis.</li>
+  <li>Using PCA as the dimensionality reduction technique provided the best result for all the models compared to basic model analysis. Also, Machine learning pipelining helped in automating the iterative process of scaling, applying PCA and building estimators and thus reducing the overall computation time.</li>
+ </ul>
      
 <h3>Conclusions</h3>
 Regression analysis is a robust and practical statistical technique with numerous applications in research. Researchers can use it to explain, forecast, estimate, and draw reasonable conclusions about the connected factors in respect to any researched phenomenon. When scientists want to look at how certain factors relate to one another, regression also enables controlling one or more variables. Regression analysis should be planned and carried out with the type, number, and sample size of dependent and independent variables all taken into account. With a limited sample size, choosing the incorrect regression analysis method could lead to incorrect conclusions regarding the phenomenon being examined.
